@@ -1,0 +1,8 @@
+{
+  "name": "customapi-translator",
+  "version": "1.0.0",
+  "description": "Connect Translator++ to any OpenAI-compatible API (Ollama, LM Studio, OpenRouter, etc.)",
+  "author": "Custom",
+  "license": "MIT",
+  "load": ["index.js"]
+}
