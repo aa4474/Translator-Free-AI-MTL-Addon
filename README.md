@@ -24,7 +24,7 @@ Unlike traditional Node.js add-ons, this engine requires zero external dependenc
 1. Open Translator++ folder.
 2. Navigate to the `addons` directory (e.g., `C:\Translator++\www\addons\`).
 3. Create a new folder and name it `CustomAPI_Translator`.
-4. Download or copy the `package.json` and `index.js` files from this repository and place them inside the [CustomAPI_Translator]([https://dreamsavior.net/translator-plusplus/](https://github.com/aa4474/Translator-Free-AI-MTL-Addon/releases/tag/CustomAPI_Translator/) folder.
+4. Download or copy the `package.json` and `index.js` files from this repository and place them inside the [CustomAPI_Translator](https://github.com/aa4474/Translator-Free-AI-MTL-Addon/releases/tag/CustomAPI_Translator/)] folder.
 5. Restart Translator++.
 
 ---
